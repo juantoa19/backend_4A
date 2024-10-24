@@ -1,0 +1,8 @@
+Post http://127.0.0.1:3000/auth/register
+Content-Type: aplication/json
+
+{
+    "name":"prueba",
+    "email":"jcc@hm.com",
+    "password":"123456"
+}
